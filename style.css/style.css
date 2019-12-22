@@ -1,0 +1,21 @@
+body {
+  font-family: "PT Sans", sans-serif;
+  font-display: fallback;
+  color: #212121;
+  line-height: 1.5;
+  font-size: 16px;
+}
+
+section .link {
+  color: #1976d2;
+  text-decoration: none;
+}
+
+section .link:hover,
+section .link:focus {
+  color: #ff4081;
+}
+
+p {
+  font-weight: 700;
+}
